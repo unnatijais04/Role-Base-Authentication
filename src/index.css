@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+/* Mobile */
+@media (max-width: 600px) {
+  body {
+    background: white;
+  }
+}
+
+/* Tablet */
+@media (max-width: 900px) {
+  body {
+    background: white;
+  }
+}
