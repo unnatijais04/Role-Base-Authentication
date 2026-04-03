@@ -11,7 +11,7 @@ const Hero = () => {
           </h1>
 
           <p className="text-center text-black dark:text-white max-w-xl mx-auto text-sm sm:text-base md:text-lg">
-            A full stack developer, who loves all things web and plays chess.
+            A developer, who loves building amazing web experiences.
           </p>
 
           <div className="flex gap-3 flex-wrap justify-center">
