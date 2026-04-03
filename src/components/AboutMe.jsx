@@ -25,10 +25,9 @@ const AboutMe = () => {
               learning fresh skills, and finding inspiration in everyday life.
             </p>
             <p>
-              In quieter moments, you'll find me at the chessboard, deep in a
-              game of chess. I love the strategic challenge and the endless
-              possibilities of each move, finding it a great way to sharpen my
-              mind and unwind.
+              Curious mind with a passion for technology and building impactful solutions.
+              I enjoy turning ideas into reality through code and continuously learning
+              new tools and technologies.
             </p>
 
             {/* Social icons */}
