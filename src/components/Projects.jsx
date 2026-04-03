@@ -13,11 +13,11 @@ const Projects = () => {
       website: "",
     },
     {
-      name: "Role Based Authentication System",
-      unfinished: true,
+       name: "Role based authentication system",
+      unfinished: false,
       description:
-        "A Role-Based Authentication System (RBAC) is a way to control who can access what in an application based on their role (like Admin, User, Manager, etc.)"
-      techStack: ["React", " Authentication", "Node.js", "MongoDB"],
+        " Role-Based Authentication System (RBAC) is a way to control who can access what in an application based on their role (like Admin, User, Manager, etc.).",
+      techStack: ["react", "node.js", "express.js", "JWT"],
       github: "https://github.com/unnatijais04/Role-Base-Authentication",
       website: "",
     },
