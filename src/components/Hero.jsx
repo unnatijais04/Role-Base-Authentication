@@ -15,12 +15,12 @@ const Hero = () => {
           </p>
 
           <div className="flex gap-3 flex-wrap justify-center">
-            <a href="mailto:kushagramodanwal@gmail.com">
+            <a href="mailto:unnati.jais06@gmail.com">
               <button className="bg-black text-white py-2 px-6 rounded dark:bg-white dark:text-black">
                 Get in touch
               </button>
             </a>
-            <a href="/KushagraResume.pdf" target="_blank" rel="noreferrer">
+            <a href="/UnnatiResume.pdf" target="_blank" rel="noreferrer">
               <button className="bg-black text-white py-2 px-8 rounded dark:bg-white dark:text-black">
                 Resume
               </button>
