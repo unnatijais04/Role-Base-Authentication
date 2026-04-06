@@ -15,7 +15,7 @@ app.use(express.json())
 app.use(cookieparser())
 app.use(cors({
     credentials: true,
-    origin: 'https://role-base-authentication-uil2.onrender.com'  
+    origin: 'https://role-base-authentication-7fe6.vercel.app'  
 }));
 
 app.use('/api/auth',AuthRoutes)
